@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Remove Element\\Remove Element.csproj": {}
+    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Remove Element\\Remove Element.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Remove Element\\Remove Element.csproj": {
+    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Remove Element\\Remove Element.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Remove Element\\Remove Element.csproj",
+        "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Remove Element\\Remove Element.csproj",
         "projectName": "Remove Element",
-        "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Remove Element\\Remove Element.csproj",
+        "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Remove Element\\Remove Element.csproj",
         "packagesPath": "C:\\Users\\Ekrem Beytula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Remove Element\\obj\\",
+        "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Remove Element\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ekrem Beytula\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\",
+  "WorkspaceRootPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91D8298F-F4B6-40DE-BFA0-5B716479B104}|Remove Duplicates from Sorted Array\\Remove Duplicates From Sorted Array.csproj|c:\\users\\ekrem beytula\\documents\\github\\1337code\\c#\\merge sort array\\remove duplicates from sorted array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D8298F-F4B6-40DE-BFA0-5B716479B104}|Remove Duplicates from Sorted Array\\Remove Duplicates From Sorted Array.csproj|solutionrelative:remove duplicates from sorted array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B05C7BB-71A1-44CB-A3ED-D5EFC7CB9C6F}|Jump Game\\Jump Game.csproj|c:\\users\\ekrem beytula\\documents\\github\\1337code\\c#\\jump game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B05C7BB-71A1-44CB-A3ED-D5EFC7CB9C6F}|Jump Game\\Jump Game.csproj|solutionrelative:jump game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A376F9-A56F-4B52-9148-02B9B06573D6}|Remove Element\\Remove Element.csproj|c:\\users\\ekrem beytula\\documents\\github\\1337code\\c#\\merge sort array\\remove element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70A376F9-A56F-4B52-9148-02B9B06573D6}|Remove Element\\Remove Element.csproj|solutionrelative:remove element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{949C1CC4-38BF-4DA4-BCFA-8D8C2CEE3E77}|Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.csproj|c:\\users\\ekrem beytula\\documents\\github\\1337code\\c#\\best time to buy and sell stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949C1CC4-38BF-4DA4-BCFA-8D8C2CEE3E77}|Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.csproj|solutionrelative:best time to buy and sell stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76BB7A30-5DA7-4838-84D5-DE893D9E9D05}|Rotate Array\\Rotate Array.csproj|c:\\users\\ekrem beytula\\documents\\github\\1337code\\c#\\merge sort array\\rotate array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{049086E8-8A8B-4472-9676-BC6900C04DC6}|Best Time to Buy and Sell Stock II\\Best Time to Buy and Sell Stock II.csproj|c:\\users\\ekrem beytula\\documents\\github\\1337code\\c#\\best time to buy and sell stock ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049086E8-8A8B-4472-9676-BC6900C04DC6}|Best Time to Buy and Sell Stock II\\Best Time to Buy and Sell Stock II.csproj|solutionrelative:best time to buy and sell stock ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BB7A30-5DA7-4838-84D5-DE893D9E9D05}|Rotate Array\\Rotate Array.csproj|c:\\users\\ekrem beytula\\documents\\github\\1337code\\c#\\rotate array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76BB7A30-5DA7-4838-84D5-DE893D9E9D05}|Rotate Array\\Rotate Array.csproj|solutionrelative:rotate array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD41A6B7-B6C4-4881-99CB-24DD6A4EFF15}|Majority element\\Majority element.csproj|c:\\users\\ekrem beytula\\documents\\github\\1337code\\c#\\merge sort array\\majority element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91D8298F-F4B6-40DE-BFA0-5B716479B104}|Remove Duplicates from Sorted Array\\Remove Duplicates From Sorted Array.csproj|c:\\users\\ekrem beytula\\documents\\github\\1337code\\c#\\remove duplicates from sorted array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D8298F-F4B6-40DE-BFA0-5B716479B104}|Remove Duplicates from Sorted Array\\Remove Duplicates From Sorted Array.csproj|solutionrelative:remove duplicates from sorted array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A376F9-A56F-4B52-9148-02B9B06573D6}|Remove Element\\Remove Element.csproj|c:\\users\\ekrem beytula\\documents\\github\\1337code\\c#\\remove element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A376F9-A56F-4B52-9148-02B9B06573D6}|Remove Element\\Remove Element.csproj|solutionrelative:remove element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD41A6B7-B6C4-4881-99CB-24DD6A4EFF15}|Majority element\\Majority element.csproj|c:\\users\\ekrem beytula\\documents\\github\\1337code\\c#\\majority element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD41A6B7-B6C4-4881-99CB-24DD6A4EFF15}|Majority element\\Majority element.csproj|solutionrelative:majority element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6943F2E7-4E51-40E6-8E2E-BAF6ED92FE7B}|Merge Sort Array\\Merge Sort Array.csproj|c:\\users\\ekrem beytula\\documents\\github\\1337code\\c#\\merge sort array\\merge sort array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6943F2E7-4E51-40E6-8E2E-BAF6ED92FE7B}|Merge Sort Array\\Merge Sort Array.csproj|solutionrelative:merge sort array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Merge Sort Array\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Merge Sort Array\\Merge Sort Array\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,11 +50,50 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Jump Game\\Program.cs",
+              "RelativeDocumentMoniker": "Jump Game\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Jump Game\\Program.cs",
+              "RelativeToolTip": "Jump Game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:15:36.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Rotate Array\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Best Time to Buy and Sell Stock II\\Program.cs",
+              "RelativeDocumentMoniker": "Best Time to Buy and Sell Stock II\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Best Time to Buy and Sell Stock II\\Program.cs",
+              "RelativeToolTip": "Best Time to Buy and Sell Stock II\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:55:34.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Best Time to Buy and Sell Stock\\Program.cs",
+              "RelativeDocumentMoniker": "Best Time to Buy and Sell Stock\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Best Time to Buy and Sell Stock\\Program.cs",
+              "RelativeToolTip": "Best Time to Buy and Sell Stock\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:29:41.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Rotate Array\\Program.cs",
               "RelativeDocumentMoniker": "Rotate Array\\Program.cs",
-              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Rotate Array\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Rotate Array\\Program.cs",
               "RelativeToolTip": "Rotate Array\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,11 +102,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Majority element\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Majority element\\Program.cs",
               "RelativeDocumentMoniker": "Majority element\\Program.cs",
-              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Majority element\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Majority element\\Program.cs",
               "RelativeToolTip": "Majority element\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,38 +114,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Remove Duplicates from Sorted Array\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Remove Duplicates from Sorted Array\\Program.cs",
               "RelativeDocumentMoniker": "Remove Duplicates from Sorted Array\\Program.cs",
-              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Remove Duplicates from Sorted Array\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Remove Duplicates from Sorted Array\\Program.cs",
               "RelativeToolTip": "Remove Duplicates from Sorted Array\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T16:03:58.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Remove Element\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Remove Element\\Program.cs",
               "RelativeDocumentMoniker": "Remove Element\\Program.cs",
-              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Remove Element\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Remove Element\\Program.cs",
               "RelativeToolTip": "Remove Element\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:42:06.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T15:42:06.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Merge Sort Array\\Program.cs",
-              "RelativeDocumentMoniker": "Merge Sort Array\\Program.cs",
+              "RelativeDocumentMoniker": "Merge Sort Array\\Merge Sort Array\\Program.cs",
               "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Merge Sort Array\\Program.cs",
-              "RelativeToolTip": "Merge Sort Array\\Program.cs",
+              "RelativeToolTip": "Merge Sort Array\\Merge Sort Array\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T15:33:08.059Z"

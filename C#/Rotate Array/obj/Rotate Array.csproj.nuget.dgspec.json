@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Rotate Array\\Rotate Array.csproj": {}
+    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Rotate Array\\Rotate Array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Rotate Array\\Rotate Array.csproj": {
+    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Rotate Array\\Rotate Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Rotate Array\\Rotate Array.csproj",
+        "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Rotate Array\\Rotate Array.csproj",
         "projectName": "Rotate Array",
-        "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Rotate Array\\Rotate Array.csproj",
+        "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Rotate Array\\Rotate Array.csproj",
         "packagesPath": "C:\\Users\\Ekrem Beytula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Merge Sort Array\\Rotate Array\\obj\\",
+        "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\1337Code\\C#\\Rotate Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ekrem Beytula\\AppData\\Roaming\\NuGet\\NuGet.Config",
